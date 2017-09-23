@@ -8,13 +8,13 @@ In Frogger game, player will be initially safe in grass. He should cross the fas
 
 ## Getting Started
 
-You should _Clone the repository_ else _Download ZIP_ to get the game file.
+* You should _Clone the repository_ else _Download ZIP_ to get the game file.
+
+* Play online [here](https://manikandanathiappan.github.io/Frogger-game/).
 
 ## Run the game
 
-* After storing the file in your local drive open the folder. You will see **index.html** inside in it.  Open it to play the game.
-
-* Play online [here](https://manikandanathiappan.github.io/Frogger-game/).
+After storing the file in your local drive open the folder. You will see **index.html** inside in it.  Open it to play the game.
 
 ## How to Play
 

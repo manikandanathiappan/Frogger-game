@@ -12,7 +12,9 @@ You should _Clone the repository_ else _Download ZIP_ to get the game file.
 
 ## Run the game
 
-After storing the file in your local drive open the folder. You will see **index.html** inside in it.  Open it to play the game.
+* After storing the file in your local drive open the folder. You will see **index.html** inside in it.  Open it to play the game.
+
+* Play online [here](https://manikandanathiappan.github.io/Frogger-game/).
 
 ## How to Play
 

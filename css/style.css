@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background-color: black;
+}
+
+#score {
+    position: absolute;
+    right: 0;
+    top: 0;
+    padding: 5px;
+    background-color: lightblue;
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+}
+
+#lives {
+    position: absolute;
+    right: 0;
+    top: 4%;
+    padding: 5px;
+    background-color: lightblue;
+    width: 15%;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+}
